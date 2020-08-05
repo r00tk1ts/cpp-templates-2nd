@@ -1,0 +1,79 @@
+{
+  "main": {
+    "id": "c4c73ec3293a0571",
+    "type": "split",
+    "children": [
+      {
+        "id": "98c33ac956e86b71",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "第12章 深入模板基础.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd75cf8d6535be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bbdc1b893319c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613cb7057fb9e798",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f00c9ac0156819b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "8fbb07cd5832465c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58398bef387985c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03029763cead9cba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "第12章 深入模板基础.md",
+    "Part II 深入模板.md",
+    "Untitled.md"
+  ]
+}

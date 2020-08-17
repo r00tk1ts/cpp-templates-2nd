@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "第12章 深入模板基础.md",
+            "file": "第13章 模板中的名称.md",
             "mode": "source"
           }
         }
@@ -46,8 +46,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255,
-    "collapsed": true
+    "width": 255
   },
   "right": {
     "id": "8fbb07cd5832465c",
@@ -73,8 +72,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "第13章 模板中的名称.md",
     "第12章 深入模板基础.md",
     "Part II 深入模板.md",
+    "README.md",
     "Untitled.md"
   ]
 }

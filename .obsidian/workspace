@@ -13,20 +13,7 @@
             "file": "第13章 模板中的名称.md",
             "mode": "source"
           }
-        },
-        "group": "02bc64f08ac31571"
-      },
-      {
-        "id": "3789ee232b22a066",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "第13章 模板中的名称.md",
-            "mode": "preview"
-          }
-        },
-        "group": "02bc64f08ac31571"
+        }
       }
     ],
     "direction": "vertical"

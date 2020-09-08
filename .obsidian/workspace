@@ -61,7 +61,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "第13章 模板中的名称.md"
+              }
             }
           }
         ]

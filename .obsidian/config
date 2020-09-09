@@ -9,6 +9,14 @@
     "command-palette": true,
     "markdown-importer": true,
     "word-count": true,
-    "custom-css": true
+    "custom-css": true,
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
   }
 }

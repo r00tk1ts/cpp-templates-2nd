@@ -39,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -62,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第13章 模板中的名称.md"
+                "file": "第14章 实例化.md"
               }
             }
           }

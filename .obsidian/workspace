@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "第14章 实例化.md",
-            "mode": "source"
+            "file": "第12章 深入模板基础.md",
+            "mode": "preview"
           }
         }
       }
@@ -74,10 +74,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "第12章 深入模板基础.md",
     "第14章 实例化.md",
     "第13章 模板中的名称.md",
     "Untitled.md",
-    "第12章 深入模板基础.md",
     "Part II 深入模板.md"
   ]
 }

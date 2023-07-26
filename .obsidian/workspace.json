@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "c4c73ec3293a0571",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8dd87e889b2c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c33ac956e86b71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第12章 深入模板基础.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcd75cf8d6535be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0bbdc1b893319c13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "613cb7057fb9e798",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f00c9ac0156819b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfc35067f7886c8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255
+  },
+  "right": {
+    "id": "8fbb07cd5832465c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c58398bef387985c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03029763cead9cba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "第12章 深入模板基础.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92e2c535a9c698db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "第12章 深入模板基础.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9803edabc32a111a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1ee608aea183966e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "第12章 深入模板基础.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98c33ac956e86b71",
+  "lastOpenFiles": [
+    "第13章 模板中的名称.md",
+    "第14章 实例化.md",
+    "第12章 深入模板基础.md",
+    "第16章 特化与重载.md",
+    "Part II 深入模板.md",
+    "README.md",
+    "Untitled.canvas",
+    "第15章 模板实参推导.md",
+    "Untitled.md"
+  ]
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第12章 深入模板基础.md",
+                "file": "第13章 模板中的名称.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第12章 深入模板基础.md",
+                "file": "第13章 模板中的名称.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第12章 深入模板基础.md",
+                "file": "第13章 模板中的名称.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第12章 深入模板基础.md"
+                "file": "第13章 模板中的名称.md"
               }
             }
           }
@@ -148,14 +148,14 @@
   },
   "active": "98c33ac956e86b71",
   "lastOpenFiles": [
-    "第13章 模板中的名称.md",
-    "第14章 实例化.md",
-    "第12章 深入模板基础.md",
     "第16章 特化与重载.md",
+    "第15章 模板实参推导.md",
+    "第14章 实例化.md",
+    "第13章 模板中的名称.md",
+    "第12章 深入模板基础.md",
     "Part II 深入模板.md",
     "README.md",
     "Untitled.canvas",
-    "第15章 模板实参推导.md",
     "Untitled.md"
   ]
 }

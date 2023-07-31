@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ab8dd87e889b2c76",
+        "id": "ab4b8ebd2a707f72",
         "type": "tabs",
         "children": [
           {
-            "id": "f16b04b52c0df26c",
+            "id": "0949957aae65044d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第14章 实例化.md",
+                "file": "第13章 模板中的名称.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第14章 实例化.md",
+                "file": "第13章 模板中的名称.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第14章 实例化.md",
+                "file": "第13章 模板中的名称.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第14章 实例化.md"
+                "file": "第13章 模板中的名称.md"
               }
             }
           }
@@ -146,11 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f16b04b52c0df26c",
+  "active": "0949957aae65044d",
   "lastOpenFiles": [
+    "images/13_01.png 1.png",
+    "images/13_01.png.md",
     "第13章 模板中的名称.md",
+    "images/13_01.png",
     "第14章 实例化.md",
-    "images/Pasted image 20230727152830.png",
+    "images/Pasted.md",
     "images",
     "README.md",
     "Untitled.canvas",

@@ -9,5 +9,7 @@
     "markdown-importer": true,
     "word-count": true,
     "custom-css": true
-  }
+  },
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./images"
 }

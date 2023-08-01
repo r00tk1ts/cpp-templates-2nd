@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第13章 模板中的名称.md",
+                "file": "第15章 模板实参推导.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第13章 模板中的名称.md",
+                "file": "第15章 模板实参推导.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第13章 模板中的名称.md",
+                "file": "第15章 模板实参推导.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第13章 模板中的名称.md"
+                "file": "第15章 模板实参推导.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "0949957aae65044d",
   "lastOpenFiles": [
+    "第13章 模板中的名称.md",
     "images/13_01.png 1.png",
     "images/13_01.png.md",
-    "第13章 模板中的名称.md",
     "images/13_01.png",
     "第14章 实例化.md",
     "images/Pasted.md",
